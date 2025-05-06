@@ -123,7 +123,7 @@ body {
 .links li a {
    transition: all 0.2s ease;
    padding: 5px 14px;
-   color: #afafaf;
+   color: #ffffff;
    text-decoration: none;
 }
 .links li a:hover {
@@ -133,7 +133,7 @@ body {
 
 .zlo {
    font-size: 25px;
-   padding-bottom: 400px;
+   padding-bottom: 500px;
    color: #a0a0a0;
    margin: 0;
 }
@@ -154,6 +154,7 @@ body {
       img {
          width: 100%;
          height: 90%;
+         border-radius: 5%;
       }
    }
 }
@@ -161,13 +162,13 @@ body {
    font-size: 25px;
    align-items: left;
    text-align: left;
-   color: #01649eb0;
+   color: #ffffffb0;
    justify-content: center;
    padding-top: 35px;
    padding-left: 35px;
 }
 .catalog1 {
-   background-image: url(../../assets/images/translucent-image.png);
+   background-image: url(../../assets/images/catalog.jpg);
    align-items: center;
    background-size: cover;
    justify-content: left;
@@ -176,8 +177,11 @@ body {
    padding-bottom: 0px;
 }
 .body1 {
-   background-image: url("../../assets/images/background1.jpg");
+   background-image: url("../../assets/images/1.jpg");
    background-size: cover;
+   background-position: center;
+
+   
 }
 
 .penis2 {
@@ -223,7 +227,4 @@ body {
         width: 60px;
         height: 60px;
     }
-}
-.onas-icons {
-
 }
