@@ -189,15 +189,16 @@ body {
 }
 
 .onas {
-   background-image: url(../../assets/images/EE3FEC1F-E548-4470-B.jpeg);
+   background-image: url(../../assets/images/onas.jpg);
    background-size: cover;
+   height: 100vh;
    align-items: left;
    display: flex;
    flex-direction: column;
    gap: 20px;
    font-size: 50px;
-   color: #1ff35f;
-
+   color: #ffffff;
+   
 }
 
 .onas-content {
@@ -206,12 +207,13 @@ body {
 }
 
 .onas-text {
-    background-color: #00640888;
-    height: max-content;
-    padding: 16px;
+    background-color: #9bb19d88;
+    height: 50vh;
+    padding: 30px;
+    width: 65vh;
     border-radius: 20px;
    font-size: 25px;
-   color: #1ff35f;
+   color: #ffffff;
    display: flex;
    flex-direction: column;
    gap: 6px;
